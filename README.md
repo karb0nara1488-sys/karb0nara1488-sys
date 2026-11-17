@@ -33,10 +33,10 @@
 
 ### Minecraft plugins
 
-- [DimensionBlocker](./DimensionBlocker/) — управление доступом в Незер и Энд.
-- [MaceLimiter](./MaceLimiter/) — ограничение булавы до одного крафта на сервере.
-- [RelicDungeons](./RelicDungeons/) — инстансовые данжи с процедурной генерацией, боссами, реликвиями и системой лута.
-- [JobsPlugin](./JobsPlugin/) — две работы: Грузчик и Фермер, NPC, GUI и фермерские поля.
+- [DimensionBlocker](./DimensionBlocker/) управление доступом в Незер и Энд.
+- [MaceLimiter](./MaceLimiter/) ограничение булавы до одного крафта на сервере.
+- [RelicDungeons](./RelicDungeons/) инстансовые данжи с процедурной генерацией, боссами, реликвиями и системой лута.
+- [JobsPlugin](./JobsPlugin/) две работы: Грузчик и Фермер, NPC, GUI и фермерские поля.
 
 *DimensionBlocker и MaceLimiter использовались на реальном SMP-сервере.*
 
